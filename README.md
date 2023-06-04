@@ -1,2 +1,2 @@
 # Newbie
-Loginform sample.
+Sample codes.
